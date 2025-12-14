@@ -72,6 +72,3 @@ photo_duplicate_cleaner/
 ├─ streamlit_app.py         # Streamlit UI for visual inspection & actions
 ├─ requirements.txt         # Python dependencies
 └─ README.md                # (this documentation)
-=======
-# Photo-Screenshot-Duplicate-Cleaner-Perceptual-Hashing-Python-
->>>>>>> 196fe2a3ac09bec2cb6752de433fb68d3935754e
