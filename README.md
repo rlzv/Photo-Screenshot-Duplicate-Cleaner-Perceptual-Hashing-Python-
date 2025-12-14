@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 From the project root (photo_duplicate_cleaner/):
 
 Install deps:
